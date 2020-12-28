@@ -7,3 +7,9 @@ Estoy trabajando para proximamente mostrarte todo lo que hago... puedo ir dándo
 - 💛 Escucho mucha música mientras trabajo
 - ⚡ Mis proyectos mas importantes fueron realizados con HTML, CSS, Jacascript, PHP, Laravel, VueJS...
 
+Si deseas comentarme algo, aquí puedes encontrarme...
+
+- 🌐 [Instagram](https://www.instagram.com/aandresweb/) 
+- 🌐 [Web](https://aandresweb.com) 
+- 🌐 Email: agodinezvizcardo@gmail.com
+
