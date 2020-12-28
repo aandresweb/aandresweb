@@ -4,6 +4,6 @@
 
 - 🌱 Tengo 22 años
 - 🏠 Trabajo desde casa
-- 💛 Escucha mucha música mientras trabajo
+- 💛 Escucho mucha música mientras trabajo
 - ⚡ Mis proyectos mas importantes fueron realizados con HTML, CSS, Jacascript, PHP, Laravel, VueJS...
 
