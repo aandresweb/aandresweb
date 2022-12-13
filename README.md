@@ -11,7 +11,7 @@ Estoy trabajando para proximamente mostrarte todo lo que hago... puedo ir dándo
 Si deseas comentarme algo, aquí puedes encontrarme...
 
 - 🌐 [Instagram](https://www.instagram.com/aandresweb/) 
-- 🌐 [Web](https://aandresweb.com) 
+- 🌐 [Web](http://aandresweb.com) 
 - 🌐 Email: **agodinezvizcardo@gmail.com**
 
 #
