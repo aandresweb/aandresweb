@@ -1,16 +1,14 @@
-### Hola, soy aandresweb 👋👨‍💻
+¡Hola! Soy *Andres Godinez*
+¡Bienvenido/a a mi perfil de GitHub! Soy un desarrollador Fullstack especializado en React y Node.js. Me encanta construir aplicaciones web innovadoras y resolver desafíos técnicos. Aquí encontrarás una muestra de mis proyectos y contribuciones a la comunidad de código abierto.
 
-Estoy trabajando para proximamente mostrarte todo lo que hago... puedo ir dándote unos detalles...
+Sobre Mí
+🚀 Desarrollador Fullstack con experiencia en React y Node.js
+💻 Apasionado por la creación de aplicaciones web robustas y escalables
+📚 Siempre aprendiendo y explorando nuevas tecnologías
 
-- 🌎 Soy de **Lima Perú**
-- 🏠 Trabajo desde casa
-- 💛 Escucho mucha música mientras trabajo
-- ⚡ Mis proyectos mas importantes fueron realizados con **HTML, CSS, Javascript, PHP, Laravel y VueJS...**
+Contacto
+¡Me encantaría conectar contigo! Puedes encontrarme en:
 
-Si deseas comentarme algo, aquí puedes encontrarme...
-
-- 🌐 [Instagram](https://www.instagram.com/aandresweb/) 
-- 🌐 [Web](http://aandresweb.com) 
-- 🌐 Email: **agodinezvizcardo@gmail.com**
-
-#
+LinkedIn: [Tu Perfil de LinkedIn](enlace a tu perfil)
+Twitter: [Tu Usuario de Twitter](enlace a tu perfil)
+¡No dudes en contactarme si quieres colaborar en proyectos interesantes o simplemente charlar sobre tecnología!
